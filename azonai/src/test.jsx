@@ -89,12 +89,12 @@ export default function AzonAIWebsite() {
   const team = [
     { name: "Dr. Arabinda Ghosh", role: "Co-Founder", focus: "Operational Management, Grants, AI Safety", initials: "AG" },
     { name: "Dr. Zengjie Zhang", role: "Co-Founder", focus: "Technical Lead", initials: "ZZ" },
-    { name: "Oliver Schön", role: "Co-Founder", focus: "Product Vision, AI Design, Innovation Strategy", initials: "OS" },
+    { name: "Dr. Oliver Schön", role: "Co-Founder", focus: "Product Vision, AI Design, Innovation Strategy", initials: "OS" },
     { name: "Dr. Natalia Calvo", role: "Co-Founder", focus: "Market Alignment, Finances, Human-Robot Interaction", initials: "NC" }
   ];
 
   const collaborators = [
-    { name: "Dr. Sadegh Soudjani", role: "Senior Research Group Leader @MPI-SWS" },
+    { name: "Prof. Sadegh Soudjani", role: "Senior Research Group Leader @MPI-SWS" },
     { name: "Prof. Ginevra Castellano", role: "Professor for Intelligent Interactive Systems @UU" },
     { name: "Dr. Sofie Haesaert", role: "Assistant Professor for Control Systems @TUe" }
   ];

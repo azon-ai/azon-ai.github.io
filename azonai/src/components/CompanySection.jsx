@@ -15,7 +15,7 @@ const team = [
     initials: 'ZZ'
   },
   {
-    name: 'Oliver Schon',
+    name: 'Dr. Oliver Schön',
     role: 'Co-Founder',
     focus: 'Product Vision, AI Design, Innovation Strategy',
     initials: 'OS'
@@ -30,7 +30,7 @@ const team = [
 
 const collaborators = [
   {
-    name: 'Dr. Sadegh Soudjani',
+    name: 'Prof. Sadegh Soudjani',
     role: 'Senior Research Group Leader @MPI-SWS'
   },
   {
